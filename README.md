@@ -4,10 +4,8 @@
 <br />
 <div align="center">
   <a href="https://github.com/RubenPin90/42-projects">
-    <img src="https://github.com/user-attachments/assets/9c663bd9-e74e-492e-b43d-d64c232a5e30" alt="Logo" width="80" height="80">
+    <img width="800" alt="Image" src="https://github.com/user-attachments/assets/7ac0af26-f226-41fd-903a-7f2cc9fe81b9" />
   </a>
-
-<h3 align="center">My 42 Common Core Journey</h3>
 
   <p align="center">
     An overview of my projects during the 42 Vienna Common Core  
@@ -31,7 +29,19 @@ Four intensive weeks of C, Shell and Git. The entry point into the 42 world.
 ### 🖨️ Step 3 – Parsing & Basics
 - [ft_printf](https://github.com/RubenPin90/ft_printf) – My own implementation of printf.  
 - [get_next_line](https://github.com/RubenPin90/get_next_line) – Reading files line by line.  
-- [born2beroot](https://github.com/RubenPin90/born2beroot) – Setting up and securing a Linux server.  
+- <details>
+   <summary><a href="https://github.com/RubenPin90/42-Common-Core#step-3">born2beroot</a> – Setting up and securing a Linux server</summary>
+  This project was about creating and configuring a virtual machine from scratch.  
+  I learned how to:
+  - Install and configure Debian
+  - Set up partitions and a secure user environment
+  - Implement SSH and firewall rules
+  - Work with `sudo` policies and strong password policies
+  - Document the entire setup and security measures
+
+  It was my first real step into **system administration and cybersecurity**,  
+  and it gave me a strong foundation for later projects.
+</details>
 
 ### 🔄 Step 4 – Algorithms & Graphics
 - [push_swap](https://github.com/RubenPin90/push_swap) – Sorting algorithms.  
@@ -39,7 +49,7 @@ Four intensive weeks of C, Shell and Git. The entry point into the 42 world.
 - [fdf](https://github.com/RubenPin90/FdF) – My first graphics project: rendering 3D landscapes as wireframes.  
 
 ### ⚙️ Step 5 – Processes & Concurrency
-- [philosophers](https://github.com/RubenPin90/Philosophers) – Multithreading, mutexes and deadlock prevention.  
+- [philosophers](https://github.com/RubenPin90/Philosopher) – Multithreading, mutexes and deadlock prevention.  
 - [minishell](https://github.com/RubenPin90/minishell) – My own shell with parser, builtins and process handling.  
 
 ### 🕹️ Step 6 – Advanced Projects
