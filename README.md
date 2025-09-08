@@ -69,6 +69,6 @@ At the beginning, students start in the center of the Holy Graph and work their 
 ## Contact
 
 RubenPin90 – [GitHub Profile](https://github.com/RubenPin90)  
-LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/rpinchasov/)
 
 ---
